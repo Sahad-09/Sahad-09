@@ -26,7 +26,7 @@
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/512/bootstrap.png" height="50px"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/512/tailwindcss.png" height="50px"/> </a> 
     <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/bubbles/512/blender-3d.png" height="50px"/> </a> 
-    <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/color/256/nodejs.png" height="50px"/> </a> 
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/256/nodejs.png" height="50px"/> </a> 
 </p>
 <br/>
 
