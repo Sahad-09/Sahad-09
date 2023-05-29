@@ -28,6 +28,7 @@
     <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/bubbles/512/blender-3d.png" height="50px"/> </a> 
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/256/nodejs.png" height="50px"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/256/git.png" height="50px"/> </a> 
+    <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" height="50px"/> </a> 
 </p>
 <br/>
 
