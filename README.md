@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **3D based landing page**
+- 🔭 I’m currently working on a site on **React hooks with real life use cases**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Next.js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
