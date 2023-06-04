@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a site on **React hooks with real life use cases**
+- 🔭 I’m currently working on a site **React hooks with real life use cases**
 
 - 🌱 I’m currently learning **Next.js.**
 
