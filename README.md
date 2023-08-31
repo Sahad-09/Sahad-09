@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a site **React hooks with real use cases**
 
-- 🌱 I’m currently learning **Next.js.**
+- 🌱 I’m currently learning **prisma**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
