@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="auto" margin-left="50%" height="200px" src="https://thumbs.gfycat.com/BoringCarelessIridescentshark-size_restricted.gif" height="175px"/></a></p>
+<p align="center"><a href="#"><img width="auto" margin-left="50%" height="200px" src="https://i.makeagif.com/media/9-02-2016/PYYfiF.gif" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahad</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
