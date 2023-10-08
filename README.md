@@ -20,7 +20,8 @@
 <p align="left"> 
     <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/512/html-5--v1.png" height="50px"/> </a> 
     <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/512/javascript--v1.png" height="50px"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/512/javascript--v1.png" height="50px"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=Xf1sHBmY73hA&format=png" height="50px"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/512/react-native.png" height="50px"/> </a> 
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/512/bootstrap.png" height="50px"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/512/tailwindcss.png" height="50px"/> </a> 
