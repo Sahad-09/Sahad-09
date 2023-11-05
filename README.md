@@ -22,6 +22,7 @@
     <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/512/javascript--v1.png" height="50px"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=wpZmKzk11AzJ&format=png" height="50px"/> </a> 
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" height="50px"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/512/react-native.png" height="50px"/> </a> 
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/512/bootstrap.png" height="50px"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/512/tailwindcss.png" height="50px"/> </a> 
@@ -31,9 +32,7 @@
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" height="50px"/> </a>
     <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" height="50px"/>
     <a href="https://www.prisma.io/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=aqb9SdV9P8oC&format=png" height="50px"/>
-    <a href="https://trpc.io/" target="_blank"> <img src="https://trpc.io/img/logo.svg" height="50px"/>
-</a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" height="50px"/> </a> 
+    <a href="https://trpc.io/" target="_blank"> <img src="https://trpc.io/img/logo.svg" height="50px"/></a>
 </p>
 <br/>
 
