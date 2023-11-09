@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a site **React hooks with real use cases**
+- 🔭 I’m currently working on a site **Article site known as "Sahad Daily"**
 
 - 🌱 I’m currently learning **prisma**
 
