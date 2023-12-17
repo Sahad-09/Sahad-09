@@ -31,6 +31,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/256/git.png" height="50px"/> </a> 
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" height="50px"/> </a>
     <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" height="50px"/>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=74402&format=png" height="50px"/>
     <a href="https://www.prisma.io/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=aqb9SdV9P8oC&format=png" height="50px"/>
     <a href="https://trpc.io/" target="_blank"> <img src="https://trpc.io/img/logo.svg" height="50px"/></a>
 </p>
