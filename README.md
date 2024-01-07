@@ -29,6 +29,7 @@
     <a href="https://www.blender.org/" target="_blank" title="Blender"> <img src="https://img.icons8.com/bubbles/512/blender-3d.png" height="50px"/> </a> 
     <a href="https://nodejs.org/en/" target="_blank" title="Node js"> <img src="https://img.icons8.com/color/256/nodejs.png" height="50px"/> </a> 
     <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://img.icons8.com/color/256/git.png" height="50px"/> </a> 
+    <a href="https://ui.shadcn.com/" target="_blank" title="Shadcn"> <img src="https://avatars.githubusercontent.com/u/124599?v=4" height="50px"/></a>
     <a href="https://redux.js.org/" target="_blank" title="Redux"> <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" height="50px"/> </a>
     <a href="https://expressjs.com/" target="_blank" title="Express js"> <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" height="50px"/>
     <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"> <img src="https://img.icons8.com/?size=256&id=74402&format=png" height="50px"/>
