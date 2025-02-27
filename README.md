@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a site **Article site known as "Sahad Daily"**
+- 🔭 I run an agency **"Sahad Daily"**
 
-- 🌱 I’m currently learning **prisma**
+- 🌱 I’m currently learning **Hono**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
