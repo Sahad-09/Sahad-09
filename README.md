@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I run an agency **"Sahad Daily"**
+- 🔭 I used to run an agency **"Sahad Daily"**
 
 - 🌱 I’m currently learning **Hono**
 
