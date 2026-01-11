@@ -69,7 +69,6 @@
   <img src="https://img.shields.io/badge/Pipelines-ETL-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Scraping-BeautifulSoup-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Processing-Celery-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Financial_Data-NSE%2FBSE_Integration-gold?style=flat-square" />
   <img src="https://img.shields.io/badge/Realtime-SSE-red?style=flat-square" />
   <img src="https://img.shields.io/badge/State_Mgmt-Zustand-purple?style=flat-square" />
 </div>
