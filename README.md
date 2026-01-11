@@ -1,48 +1,89 @@
-<p align="center"><a href="#"><img width="auto" margin-left="50%" height="200px" src="https://cdn270.picsart.com/efd0e69d-9903-4e3e-94df-f2e1860aed3c/434362958042201.gif" height="175px"/></a></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahad</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+<div align="center">
+  <a href="#">
+    <img src="https://cdn270.picsart.com/efd0e69d-9903-4e3e-94df-f2e1860aed3c/434362958042201.gif" height="150px" alt="Coding Gif"/>
+  </a>
 
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahad</h1>
 
-## 🙋‍♂️ About Me
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Data+Engineering+Wizard;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
+
+### 🙋‍♂️ About Me
 - 🔭 I used to run an agency **"Sahad Daily"**
-
-- 🌱 I’m currently learning **Hono**
-
+- 🌱 I’m currently exploring **DSPy, RAG Systems, and Hono**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **msahad124@gmail.com**
+- 📫 Reach me at **msahad124@gmail.com**
 
 <br/>
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.w3schools.com/html/" target="_blank" title="HTML"> <img src="https://img.icons8.com/color/512/html-5--v1.png" height="50px"/> </a> 
-    <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" title="CSS"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank" title="Javascript"> <img src="https://img.icons8.com/color/512/javascript--v1.png" height="50px"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript"> <img src="https://img.icons8.com/?size=256&id=wpZmKzk11AzJ&format=png" height="50px"/> </a> 
-    <a href="https://nextjs.org/" target="_blank" title="Next js"> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" height="50px"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" title="React js"> <img src="https://img.icons8.com/color/512/react-native.png" height="50px"/> </a> 
-    <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"> <img src="https://img.icons8.com/color/512/bootstrap.png" height="50px"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" title="Tailwind css"> <img src="https://img.icons8.com/color/512/tailwindcss.png" height="50px"/> </a> 
-    <a href="https://www.blender.org/" target="_blank" title="Blender"> <img src="https://img.icons8.com/bubbles/512/blender-3d.png" height="50px"/> </a> 
-    <a href="https://nodejs.org/en/" target="_blank" title="Node js"> <img src="https://img.icons8.com/color/256/nodejs.png" height="50px"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://img.icons8.com/color/256/git.png" height="50px"/> </a> 
-    <a href="https://ui.shadcn.com/" target="_blank" title="Shadcn"> <img src="https://avatars.githubusercontent.com/u/124599?v=4" height="50px"/></a>
-    <a href="https://redux.js.org/" target="_blank" title="Redux"> <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" height="50px"/> </a>
-    <a href="https://expressjs.com/" target="_blank" title="Express js"> <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" height="50px"/>
-    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"> <img src="https://img.icons8.com/?size=256&id=74402&format=png" height="50px"/>
-    <a href="https://www.prisma.io/" target="_blank" title="Prisma"> <img src="https://img.icons8.com/?size=512&id=aqb9SdV9P8oC&format=png" height="50px"/>
-    <a href="https://trpc.io/" target="_blank" title="Trpc"> <img src="https://trpc.io/img/logo.svg" height="50px"/></a>
+## 🧠 AI & Machine Learning Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-00C7B7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Routing-4B0082?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector_DB-BC1439?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-Gemini_&_OpenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
+## 🚀 Languages & Tools
+<div align="center">
+
+  <h3>Frontend & Core Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css,bash&perline=7" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,electron,blender&perline=7" />
+  </a>
+
+  <br/>
+
+  <h3>Backend, Data & Architecture</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi&perline=5" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,prisma,rabbitmq&perline=8" />
+  </a>
+
+  <br/>
+
+  <h3>DevOps, Cloud & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,git,vercel,postman,selenium,prometheus,linux&perline=9" />
+  </a>
+</div>
+
 <br/>
 
-## Connect with me:
-<p align="left">
+## 🛠️ Specialized Technical Concepts
+<div align="center">
+  <img src="https://img.shields.io/badge/Architecture-Event--Driven-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pipelines-ETL-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scraping-BeautifulSoup-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Processing-Celery-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Financial_Data-NSE%2FBSE_Integration-gold?style=flat-square" />
+  <img src="https://img.shields.io/badge/Realtime-SSE-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/State_Mgmt-Zustand-purple?style=flat-square" />
+</div>
 
-<a href = "https://www.linkedin.com/in/sahad-pop/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/sahad__.x/?next=%2F"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCVOR8gU2bH6oU3kRCPX1Cvw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<br/>
 
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahad-09&theme=react&hide_border=true&area=true" />
+</div>
+
+## 🤝 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahad-pop/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="sahad-pop" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/sahad__.x/?next=%2F" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="sahad__.x" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCVOR8gU2bH6oU3kRCPX1Cvw" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="youtube" height="40" width="40" /></a>
 </p>
