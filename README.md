@@ -85,7 +85,7 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahad-09&bg_color=0B111B&color=B6CBDD&title_color=DDE8F0&line=88A9C3&point=E6EDF3&area_color=334D66&hide_border=true&area=true" alt="GitHub contribution activity for Sahad-09" />
+  <a href="https://github.com/Sahad-09?tab=overview"><img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity for Sahad-09 over the last 31 days, refreshed daily" /></a>
 </div>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
