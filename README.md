@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/moonlit-title.png" />
-    <img src="./assets/moonlit-awakening-v3.gif" width="100%" alt="The Knight walks into a moonlit cavern and casts Vengeful Spirit; the spectral blast flies across the scene before revealing Mohammad Sahad — Full Stack Developer and AI Engineer." />
+    <img src="./assets/moonlit-awakening-v4.gif" width="100%" alt="The Knight casts Vengeful Spirit into an ancient stone wall. Cracks spread from the impact and the stone breaks away to reveal Mohammad Sahad — Full Stack Developer and AI Engineer." />
   </picture>
 
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">, I'm Sahad</h1>
