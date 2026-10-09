@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="136" viewBox="0 0 1200 136" role="img" aria-label="Keep exploring. Keep building.">
+<defs><linearGradient id="night"><stop stop-color="#060d15"/><stop offset=".5" stop-color="#12283a"/><stop offset="1" stop-color="#060d15"/></linearGradient></defs>
+<rect width="1200" height="136" rx="8" fill="url(#night)"/><path d="M80 68h210m620 0h210" stroke="#58738b" stroke-width="1"/><path d="M330 61l4 7-4 7-4-7zm540 0l4 7-4 7-4-7z" fill="#a6bfd3"/><text x="600" y="78" text-anchor="middle" font-family="Georgia,serif" font-size="29" letter-spacing="2" fill="#e8eff5">Keep exploring. Keep building.</text>
+</svg>

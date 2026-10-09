@@ -1,88 +1,96 @@
-<div align="center">
-  <a href="#">
-    <img src="https://cdn270.picsart.com/efd0e69d-9903-4e3e-94df-f2e1860aed3c/434362958042201.gif" height="150px" alt="Coding Gif"/>
-  </a>
-
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahad</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Data+Engineering+Wizard;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-### 🙋‍♂️ About Me
-- 🔭 I used to run an agency **"Sahad Daily"**
-- 🌱 I’m currently exploring **DSPy, RAG Systems, and Hono**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 Reach me at **msahad124@gmail.com**
-
-<br/>
-
-## 🧠 AI & Machine Learning Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSPy-00C7B7?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semantic_Routing-4B0082?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-Vector_DB-BC1439?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Orchestration-Gemini_&_OpenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="./assets/moonlit-hero.png" width="100%" alt="Mohammad Sahad — Full Stack Developer and AI Engineer. A field journal of things I build, set in a moonlit cavern." />
 </p>
 
-## 🚀 Languages & Tools
-<div align="center">
-
-  <h3>Frontend & Core Languages</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css,bash&perline=7" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,electron,blender&perline=7" />
-  </a>
-
-  <br/>
-
-  <h3>Backend, Data & Architecture</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi&perline=5" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,prisma,rabbitmq&perline=8" />
-  </a>
-
-  <br/>
-
-  <h3>DevOps, Cloud & Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,git,vercel,postman,selenium,prometheus,linux&perline=9" />
-  </a>
-</div>
-
-<br/>
-
-## 🛠️ Specialized Technical Concepts
-<div align="center">
-  <img src="https://img.shields.io/badge/Architecture-Event--Driven-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pipelines-ETL-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scraping-BeautifulSoup-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Processing-Celery-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Realtime-SSE-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/State_Mgmt-Zustand-purple?style=flat-square" />
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahad-09&theme=react&hide_border=true&area=true" />
-</div>
-
-## 🤝 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahad-pop/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="sahad-pop" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/sahad__.x/?next=%2F" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="sahad__.x" height="40" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCVOR8gU2bH6oU3kRCPX1Cvw" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="youtube" height="40" width="40" /></a>
+  <a href="https://www.sahaddaily.in"><b>Portfolio</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/sahad-pop/"><b>LinkedIn</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:msahad124@gmail.com"><b>Email</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Sahad-09?tab=repositories"><b>Repositories</b></a>
+</p>
+
+<br />
+
+## Ⅰ · The explorer
+
+I'm **Sahad**, a full stack developer and AI engineer. I build web interfaces, backend services, and AI applications—with a particular interest in how they work together as a complete product.
+
+Previously, I ran **Sahad Daily**, a web agency. These days, I'm exploring **DSPy, retrieval-augmented generation, and Hono**, and I'm open to collaborating on open-source projects.
+
+> Thoughtful interfaces. Useful intelligence. The systems underneath.
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Ⅱ · Selected expeditions
+
+Three paths through my public work. Each leads to the source.
+
+### [01 / Company Discovery ↗](https://github.com/Sahad-09/company-discovery)
+
+Find NSE-listed companies through natural-language themes and market narratives. A semantic search interface backed by OpenAI embeddings and Qdrant vector search.
+
+**Next.js · TypeScript · OpenAI · Qdrant**
+
+### [02 / React Hooks ↗](https://github.com/Sahad-09/React-hooks)
+
+A learning project that explores React hooks through practical examples and straightforward explanations.
+
+**React · TypeScript**
+
+### [03 / AI Agent Backend ↗](https://github.com/Sahad-09/insider-trade-backend-chat-agent)
+
+A FastAPI and LangGraph agent backend with streaming chat, persistent state, vector storage, and LLM observability.
+
+**Python · FastAPI · LangGraph · PostgreSQL**
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Ⅲ · The toolkit
+
+| Layer | What I work with |
+| :--- | :--- |
+| **Interfaces** | TypeScript, JavaScript, React, Next.js, Tailwind CSS, Zustand |
+| **Services** | Python, Node.js, Express, NestJS, FastAPI, Django |
+| **AI systems** | RAG, DSPy, semantic routing, OpenAI, Gemini, Qdrant |
+| **Data** | PostgreSQL, MongoDB, Redis, Supabase, Prisma |
+| **Delivery** | Docker, AWS, Cloudflare, Vercel, Linux, Git |
+
+<details>
+<summary><b>Open the rest of the inventory</b></summary>
+
+<br />
+
+- **Languages & creative tools:** Java, HTML, CSS, Bash, Electron, Blender
+- **Interface libraries:** Redux, Bootstrap
+- **Data & messaging:** MySQL, RabbitMQ
+- **Architecture & processing:** event-driven systems, microservices, ETL, Celery, server-sent events
+- **Testing & operations:** Postman, Selenium, Prometheus
+- **Web extraction:** BeautifulSoup
+
+</details>
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Ⅳ · At the workbench
+
+**Exploring** · DSPy programs, retrieval systems, and lightweight APIs with Hono.
+
+**Open to** · Collaborations on AI tools, full stack applications, and open-source projects.
+
+Have something interesting to build? **[Leave a message →](mailto:msahad124@gmail.com)**
+
+<br />
+
+<p align="center">
+  <img src="./assets/closing.svg" width="100%" alt="Keep exploring. Keep building." />
+</p>
+
+<p align="center">
+  <sub><a href="https://www.instagram.com/sahad__.x/">Instagram</a> &nbsp; · &nbsp; <a href="https://www.youtube.com/channel/UCVOR8gU2bH6oU3kRCPX1Cvw">YouTube</a> &nbsp; · &nbsp; <a href="https://www.sahaddaily.in">sahaddaily.in</a></sub>
 </p>
