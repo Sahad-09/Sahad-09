@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/moonlit-title.png" />
-    <img src="./assets/moonlit-awakening.gif" width="100%" alt="The Knight enters a moonlit cavern and follows a silver wisp, revealing Mohammad Sahad — Full Stack Developer and AI Engineer." />
+    <img src="./assets/moonlit-awakening-v2.gif" width="100%" alt="The Knight walks into a moonlit cavern, settles, and looks toward a silver wisp that reveals Mohammad Sahad — Full Stack Developer and AI Engineer." />
   </picture>
 
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">, I'm Sahad</h1>
